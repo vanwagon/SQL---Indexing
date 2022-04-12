@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email_address,home_phone,city,state_name,years_old
+1,Edward,Lewis,Edward.Lewis@example.com,202-555-0264,Pittsburgh,Pennsylvania,82
+2,Frances,Campbell,Frances.Campbell@example.com,202-555-0073,North Las Vegas,Nevada,10
+3,Dennis,Hall,Dennis.Hall@example.com,202-555-0424,Chula Vista,California,21
+4,Arthur,Turner,Arthur.Turner@example.com,202-555-0205,Fort Wayne,Indiana,49
+5,Nathan,Cooper,Nathan.Cooper@example.com,202-555-0410,Durham,North Carolina,72
+6,Rachel,Scott,Rachel.Scott@example.com,202-555-0299,San Francisco,California,50
+7,Jeffrey,Cook,Jeffrey.Cook@example.com,202-555-0398,Jersey city,New Jersey,66
+8,Ann,Peterson,Ann.Peterson@example.com,202-555-0149,Laredo,Texas,66
+9,Sandra,Nelson,Sandra.Nelson@example.com,202-555-0932,Anchorage,Alaska,34
+10,Scott,Flores,Scott.Flores@example.com,202-555-0473,New Orleans,Louisiana,63
+11,Kathleen,Cruz,Kathleen.Cruz@example.com,202-555-0394,Miami,Florida,46
+12,Betty,King,Betty.King@example.com,202-555-0264,San Jose,California,100
+13,Peter,Stewart,Peter.Stewart@example.com,202-555-0615,Norfolk,Virginia,63
+14,Eugene,Barnes,Eugene.Barnes@example.com,202-555-0679,Aurora,Colorado,76
+15,Janice,Evans,Janice.Evans@example.com,202-555-0401,Buffalo,New York,63
+16,Rachel,Scott,Rachel.Scott@example.com,202-555-0410,Fresno,California,97
+17,Margaret,Bailey,Margaret.Bailey@example.com,202-555-0782,Spokane,Washington,73
+18,Susan,Clark,Susan.Clark@example.com,202-555-0008,Fort Wayne,Indiana,71
+19,Donna,Peterson,Donna.Peterson@example.com,202-555-0137,Greensboro,North Carolina,65
+20,Christian,Anderson,Christian.Anderson@example.com,202-555-0955,Fort Wayne,Indiana,6
+21,Joseph,King,Joseph.King@example.com,202-555-0615,Glendale,Arizona,15
+22,Stephen,Wilson,Stephen.Wilson@example.com,202-555-0137,St. Louis,Missouri,88
+23,Randy,Morales,Randy.Morales@example.com,202-555-0394,Riverside,California,14
+24,William,Morgan,William.Morgan@example.com,202-555-3579,Las Vegas,Nevada,84
+25,Abigail,Rogers,Abigail.Rogers@example.com,202-555-0750,Houston,Texas,30
+26,Sharon,Wright,Sharon.Wright@example.com,202-555-6802,Houston,Texas,98
+27,Kayla,Wood,Kayla.Wood@example.com,202-555-0410,Chandler,Arizona,15
+28,Joyce,Thompson,Joyce.Thompson@example.com,202-555-0394,Seattle,Washington,48
+29,Austin,Cooper,Austin.Cooper@example.com,202-555-0946,Indianapolis,Indiana,81
+30,Terry,Young,Terry.Young@example.com,202-555-0932,North Las Vegas,Nevada,91
+31,Janice,Williams,Janice.Williams@example.com,202-555-0744,Spokane,Washington,60
+32,Grace,Thomas,Grace.Thomas@example.com,202-555-0281,Colorado Springs,Colorado,59
+33,Grace,Rodriguez,Grace.Rodriguez@example.com,202-555-2468,Fort Wayne,Indiana,73
+34,Olivia,Evans,Olivia.Evans@example.com,202-555-0299,Chula Vista,California,71
+35,Doris,Wilson,Doris.Wilson@example.com,202-555-5791,New Orleans,Louisiana,35
+36,Judy,Cox,Judy.Cox@example.com,202-555-0401,St. Louis,Missouri,39
+37,Jason,Gutierrez,Jason.Gutierrez@example.com,202-555-0137,Madison,Wisconsin,31
+38,Diane,Thompson,Diane.Thompson@example.com,202-555-0750,Boise,Idaho,25
+39,Jack,Thomas,Jack.Thomas@example.com,202-555-0707,Anaheim,California,42
+40,Gary,Campbell,Gary.Campbell@example.com,202-555-0750,Laredo,Texas,55
+41,Angela,Sanders,Angela.Sanders@example.com,202-555-0424,Wichita,Kansas,27
+42,Juan,James,Juan.James@example.com,202-555-0679,Philadelphia,Pennsylvania,51
+43,Joyce,Ramirez,Joyce.Ramirez@example.com,202-555-0424,Tulsa,Oklahoma,62
+44,Mark,Wright,Mark.Wright@example.com,202-555-0412,Pittsburgh,Pennsylvania,65
+45,Paul,Foster,Paul.Foster@example.com,202-555-0744,Louisville,Kentucky,78
+46,Joseph,Clark,Joseph.Clark@example.com,202-555-4680,Seattle,Washington,4
+47,Ronald,Morales,Ronald.Morales@example.com,202-555-6802,Tulsa,Oklahoma,61
+48,Judith,Thompson,Judith.Thompson@example.com,202-555-0750,Gilbert,Arizona,61
+49,Bruce,Martinez,Bruce.Martinez@example.com,202-555-3579,Spokane,Washington,90
+50,Dylan,Rodriguez,Dylan.Rodriguez@example.com,202-555-0738,Oklahoma city,Oklahoma,19
+51,Kathleen,Peterson,Kathleen.Peterson@example.com,202-555-0424,Irvine,California,64
+52,Angela,Smith,Angela.Smith@example.com,202-555-1357,Lincoln,Nebraska,92
+53,Samuel,Wright,Samuel.Wright@example.com,202-555-0394,Dallas,Texas,42
+54,Sandra,Morales,Sandra.Morales@example.com,202-555-0190,Chicago,Illinois,43
+55,Thomas,James,Thomas.James@example.com,202-555-3579,Phoenix,Arizona,42
+56,Janet,Nguyen,Janet.Nguyen@example.com,202-555-0264,Fort Worth,Texas,85
+57,Madison,Bell,Madison.Bell@example.com,202-555-0589,Madison,Wisconsin,40
+58,Frank,Davis,Frank.Davis@example.com,202-555-0955,Las Vegas,Nevada,44
+59,William,Morris,William.Morris@example.com,202-555-0955,El Paso,Texas,63
+60,Judith,Murphy,Judith.Murphy@example.com,202-555-0264,Tulsa,Oklahoma,97
+61,Henry,Martinez,Henry.Martinez@example.com,202-555-0679,Toledo,Ohio,41
+62,Rachel,Torres,Rachel.Torres@example.com,202-555-0394,Fremont,California,14
+63,Noah,Lewis,Noah.Lewis@example.com,202-555-0738,Detroit,Michigan,77
+64,Kayla,Nelson,Kayla.Nelson@example.com,202-555-0412,Chesapeake,Virginia,94
+65,Judy,Long,Judy.Long@example.com,202-555-0707,St. Petersburg,Florida,30
+66,Stephanie,Robinson,Stephanie.Robinson@example.com,202-555-0424,Omaha,Nebraska,6
+67,Diana,King,Diana.King@example.com,202-555-4680,Philadelphia,Pennsylvania,94
+68,Rose,Richardson,Rose.Richardson@example.com,202-555-0401,Indianapolis,Indiana,85
+69,Dorothy,Wright,Dorothy.Wright@example.com,202-555-6802,Oklahoma city,Oklahoma,4
+70,Brittany,Kelly,Brittany.Kelly@example.com,202-555-0220,Chula Vista,California,41
+71,Stephen,Baker,Stephen.Baker@example.com,202-555-0779,Chesapeake,Virginia,79
+72,Maria,Turner,Maria.Turner@example.com,202-555-6802,Chula Vista,California,6
+73,George,Ross,George.Ross@example.com,202-555-0738,Anaheim,California,66
+74,Lisa,Morales,Lisa.Morales@example.com,202-555-0932,Buffalo,New York,89
+75,Gabriel,Phillips,Gabriel.Phillips@example.com,202-555-0779,Tucson,Arizona,54
+76,Shirley,Hill,Shirley.Hill@example.com,202-555-0412,Las Vegas,Nevada,72
+77,Amanda,Moore,Amanda.Moore@example.com,202-555-0073,New York,New York,24
+78,Jack,Harris,Jack.Harris@example.com,202-555-0932,Lubbock,Texas,99
+79,Marilyn,Watson,Marilyn.Watson@example.com,202-555-0401,North Las Vegas,Nevada,10
+80,Emma,Adams,Emma.Adams@example.com,202-555-0008,Aurora,Colorado,59
+81,Jonathan,Nelson,Jonathan.Nelson@example.com,202-555-0707,San Antonio,Texas,30
+82,Danielle,Roberts,Danielle.Roberts@example.com,202-555-0679,Oakland,California,84
+83,Adam,Ortiz,Adam.Ortiz@example.com,202-555-2468,Detroit,Michigan,48
+84,Frank,Ross,Frank.Ross@example.com,202-555-4680,Atlanta,Georgia,47
+85,Martha,Nelson,Martha.Nelson@example.com,202-555-0373,Plano,Texas,10
+86,Emily,Gutierrez,Emily.Gutierrez@example.com,202-555-0190,Chicago,Illinois,2
+87,Jean,Garcia,Jean.Garcia@example.com,202-555-2468,Indianapolis,Indiana,26
+88,Lori,Edwards,Lori.Edwards@example.com,202-555-0589,Louisville,Kentucky,39
+89,Logan,Scott,Logan.Scott@example.com,202-555-0373,Fort Worth,Texas,57
+90,George,White,George.White@example.com,202-555-0281,Minneapolis,Minnesota,31
+91,David,Hall,David.Hall@example.com,202-555-0738,Honolulu,Hawaii,82
+92,Michelle,Cook,Michelle.Cook@example.com,202-555-0299,Long Beach,California,61
+93,Christine,Diaz,Christine.Diaz@example.com,202-555-0281,Phoenix,Arizona,54
+94,William,Perez,William.Perez@example.com,202-555-0137,Sacramento,California,35
+95,Willie,Edwards,Willie.Edwards@example.com,202-555-4680,Kansas city,Missouri,40
+96,William,Reed,William.Reed@example.com,202-555-0137,Baltimore,Maryland,38
+97,Tyler,Morales,Tyler.Morales@example.com,202-555-0707,Jacksonville,Florida,5
+98,Natalie,Brooks,Natalie.Brooks@example.com,202-555-0149,Louisville,Kentucky,78
+99,Katherine,Thomas,Katherine.Thomas@example.com,202-555-0398,Charlotte,North Carolina,12
+100,Lawrence,Miller,Lawrence.Miller@example.com,202-555-0398,Glendale,Arizona,44
